@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "RpnCalculator": {
+      "commandName": "Project",
+      "commandLineArgs": "7 3 + 4 * 6 +",
+      "sqlDebugging": true
+    }
+  }
+}

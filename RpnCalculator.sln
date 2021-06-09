@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RpnCalculator", "RpnCalculator\RpnCalculator.csproj", "{CC07050F-57E7-40D0-9C36-CFEB26ED5A8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC07050F-57E7-40D0-9C36-CFEB26ED5A8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC07050F-57E7-40D0-9C36-CFEB26ED5A8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC07050F-57E7-40D0-9C36-CFEB26ED5A8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC07050F-57E7-40D0-9C36-CFEB26ED5A8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B38068A-1FCB-47BC-9426-EDD4223562A0}
+	EndGlobalSection
+EndGlobal
